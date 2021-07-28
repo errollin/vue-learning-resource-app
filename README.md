@@ -1,5 +1,7 @@
 # vue-learning-resource-app
 
+A vue practice project learn from Max on Udemy.
+
 ## Project setup
 ```
 npm install
